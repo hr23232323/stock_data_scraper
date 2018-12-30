@@ -12,7 +12,7 @@ This program utilizes a few packages to successfully scrape data. To run this pr
 _Note: Open the command terminal, navigate to the project directory and then run the commands mentioned below-_
 
 #### Time
-A python module which provides various time related functionalities. More information can be found [here](https://docs.python.org/3/library/time.html "Time's official documentation page")
+A python module which provides various time related functionalities. More information can be found [here](https://docs.python.org/3/library/time.html "Time Official Documentation")
 ```
 On Windows-
 
@@ -25,6 +25,7 @@ On Mac-
 ```
 
 #### BeautifulSoup
+A python module used to pull data out of HTML and XML files. More information can be found [here](https://www.crummy.com/software/BeautifulSoup/bs4/doc/ "BeautifulSoup4 Official Documentation")
 ```
 On Windows-
 
