@@ -45,4 +45,4 @@ Once you have the dependencies mentioned above installed, you should be good to 
 ```
 
 ### Further Resources
-If you want to continue on with this series, feel free to [check out the Medium post](https://www.google.com "Building a stock screener from scratch"). You can also see my other projects at [harshrana.com](https://www.harshrana.com "Harsh Rana")
+If you want to continue on with this series, feel free to [check out the Medium post](https://www.google.com "Building a stock screener from scratch"). You can also check out my other projects [here](https://www.harshrana.com "Harsh Rana")
