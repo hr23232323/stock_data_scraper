@@ -24,7 +24,7 @@ On Mac-
 
 ```
 
-#### BeautifulSoup
+#### BeautifulSoup4
 A python module used to pull data out of HTML and XML files. More information can be found [here](https://www.crummy.com/software/BeautifulSoup/bs4/doc/ "BeautifulSoup4 Official Documentation")
 ```
 On Windows-
@@ -35,5 +35,12 @@ On Mac-
   
   sudo pip install BeautifulSoup4
 
+```
+
+## Running the program
+Once you have the dependencies mentioned above installed, you should be good to run the program. In order to do so, open the command terminal, navigate to the project folder and use the following command-
+
+```
+  python stock_scraper.py
 ```
 
