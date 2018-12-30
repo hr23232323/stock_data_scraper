@@ -44,3 +44,5 @@ Once you have the dependencies mentioned above installed, you should be good to 
   python stock_scraper.py
 ```
 
+## Further Resources
+If you want to continue on with this series, feel free to [check out the Medium post](google.com "Building a stock screener from scratch"). You can see my other projects on my [personal website](harshrana.com "Harsh Rana")
