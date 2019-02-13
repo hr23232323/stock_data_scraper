@@ -46,6 +46,10 @@ Once you have the dependencies mentioned above installed, you should be good to 
   python stock_scraper.py
 ```
 
+
+<hr></hr>
+
+
 # Part 2- Storing Data
 ## Getting Started
 
@@ -65,6 +69,9 @@ Once you have the dependencies mentioned above installed, you should be good to 
 
 ## Modifications
 If you explore the program you'll find a few key ways to manipulate the data storage pipeline. In specific, you can change the list of companies to store information about and also the actual indicators that are being stored. In order to do so, modify the ```stock_list``` and ```interested``` variables in the main function inside get_data.py.
+
+
+<hr></hr>
 
 
 # Part 3- Screening Data
