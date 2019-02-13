@@ -77,5 +77,8 @@ If you explore the program you'll find a few key ways to manipulate the data sto
 # Part 3- Screening Data
 Coming Soon!
 
-### Further Resources
+
+<hr></hr>
+
+## Further Resources
 If you want to continue on with this series, feel free to [check out the Medium post](https://www.google.com "Building a stock screener from scratch"). You can also check out my other projects [here](https://www.harshrana.com "Harsh Rana")
